@@ -110,6 +110,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/css/intlTelInput.min.css" rel="stylesheet" position="3">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" rel="stylesheet" position="3">
             <link rel="stylesheet" href="{{ asset('assets/d4869f7f/bundle.css') }}">
+            <link rel="stylesheet" href="{{ asset('Asset/Css/Style.css') }}">
         <!--[if IE 9]>
 <script src="/assets/d4869f7f/vendor/ie9-placeholder.js?v=1686930323"></script>
 <![endif]-->
@@ -138,8 +139,8 @@
      @yield('content')
      @include('Partials.Overlay')
      @include('Partials.Footer')
-       
-  
+
+
         <script type="application/ld+json">
             [{"@context":"http://schema.org","@type":"Organization","url":"","name":"Intellectsoft US","logo":"assets/d4869f7f/img/logo-black.svg","email":"info@intellectsoft.net","address":[{"@context":"http://schema.org","@type":"PostalAddress","addressCountry":"United States","addressLocality":"Palo Alto","addressRegion":"CA","postOfficeBoxNumber":"721 Colorado Avenue, Suite 101","postalCode":"94303","telephone":"+1 (650) 233-6196"},{"@context":"http://schema.org","@type":"PostalAddress","addressCountry":"United States","addressLocality":"New York","addressRegion":"NY","postOfficeBoxNumber":"315 W 36th St.","postalCode":"10018","telephone":"+1 (855) TOP DEVS"}]},{"@context":"http://schema.org","@type":"WebSite","url":"","name":"Intellectsoft US","sameAs":["https://www.linkedin.com/company/intellectsoft","https://www.facebook.com/Intellectsoft/","http://twitter.com/Intellectsoft","http://flickr.com/photos/intellectsoft/","/"]}]
         </script>
@@ -163,6 +164,7 @@
         <script src="/assets/d4869f7f/vendor/autocomplete.min.js?v=1686930323"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.js"></script>
         <script src="/assets/d4869f7f/api.min.js?v=1686930439"></script>
+        <script src="{{asset('assets/d4869f7f/bundle.min.js')}}"></script>
         <script type="text/javascript">
             jQuery(document).ready(function() {
 

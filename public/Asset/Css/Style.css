@@ -13171,3 +13171,100 @@ canvas {
 .clients-imag.slide_1{
     background-image: url('/public/assets/d4869f7f/img/clients-success/cirrus-2x.webp')
 }
+
+@media screen and (min-width: 1200px)
+{
+    .progress .progress__cont {
+        padding: 0 20px;
+    }
+}
+
+.progress .progress__cont {
+    -js-display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+.progress .step.done:first-child {
+    background: -webkit-gradient(linear,left bottom,left top,from(#f1f8ff),to(#f1f8ff)),#eaf3fe;
+    background: -webkit-linear-gradient(bottom,#f1f8ff,#f1f8ff),#eaf3fe;
+    background: linear-gradient(0deg,#f1f8ff,#f1f8ff),#eaf3fe;
+}
+
+.progress .step {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 24%;
+    flex: 0 0 24%;
+    position: relative;
+    -webkit-transition: all .25s linear;
+    transition: all .25s linear;
+}
+.progress .step.done .step-title {
+    color: #323232;
+    -webkit-animation: dropTitle .5s linear forwards;
+    animation: dropTitle .5s linear forwards;
+    opacity: .8;
+}
+.progress .step-title {
+    position: relative;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    opacity: 0;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #aaa;
+    padding: 50px 0 54px;
+    text-align: center;
+}
+.progress .step-title {
+    position: relative;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    opacity: 0;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 24px;
+    text-transform: unset;
+    color: #aaa;
+    padding: 20px 0;
+    text-align: center;
+}
+.progress .step-progress {
+    width: 100%;
+    height: 1px;
+    background: #1476f2;
+    position: absolute;
+    left: 130px;
+    z-index: 1;
+}
+.progress  .icon-wrapper {
+    text-align: center;
+    position: relative;
+}
+
+.progress .step.done .icon-checkmark circle {
+    fill: #1476f2;
+}
+.progress  .icon-checkmark circle {
+    fill: #fff;
+}
+
+.progress  .icon:before {
+    content: "";
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 40px;
+    width: 40px;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
