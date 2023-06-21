@@ -9,3 +9,4 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.4.1/swiper-bundle.min.css" integrity="sha512-nGNAKpV+BrfDZabPX1O6q6mRlT57/amdj+6vF322ongqKABLHYLfLc3jYtVVbkiR9towDWPPE9gWFE2tsZIPZg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
       <link rel="stylesheet" href="{{ asset('Asset/Css/Style.css') }}">
       <link rel="stylesheet" href="{{ asset('Asset/Css/Responsive.css') }}">
+      <link rel="stylesheet" href="{{ asset('Asset/Css/bundle.css') }}">

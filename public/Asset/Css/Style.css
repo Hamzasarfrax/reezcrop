@@ -5962,7 +5962,7 @@ body.pages-contacts .static {
 }
 
 .hero-slider__item--1 {
-    background-image: url(img/home-header-slider/planning.webp)
+    background-image: url('/assets/Images/planning.webp')
 }
 
 @media screen and (max-width: 767px) {
@@ -5974,7 +5974,7 @@ body.pages-contacts .static {
 }
 
 .hero-slider__item--2 {
-    background-image: url(img/home-header-slider/slide_2.webp)
+    background-image: url('/assets/Images/slide_2.webp')
 }
 
 @media screen and (max-width: 767px) {
@@ -5986,7 +5986,7 @@ body.pages-contacts .static {
 }
 
 .hero-slider__item--3 {
-    background-image: url(img/home-header-slider/slide_3.webp)
+    background-image: url('/assets/Images/slide_3.webp')
 }
 
 @media screen and (max-width: 767px) {
@@ -6034,19 +6034,19 @@ body.pages-contacts .static {
 }
 
 .hero-slider__item--7 {
-    background-image: url('/public/assets/d4869f7f/img/home-header-slider/slide_3.webp')
+    background-image: url('/assets/d4869f7f/img/home-header-slider/slide_3.webp')
 }
 
 .hero-slider__item--8 {
-    background-image: url('/public/assets/d4869f7f/img/home-header-slider/doctors.webp')
+    background-image: url('/assets/Images/doctors.webp')
 }
 
 .hero-slider__item--10 {
-    background-image: url('/public/assets/d4869f7f/img/home-offices')
+    background-image: url('/assets/Images/hotel-in-smartphone.webp')
 }
 
 .hero-slider__item--11 {
-    background-image: url('/public/assets/d4869f7f/img/home-header-slider/slide_2.webp')
+    background-image: url('/assets/d4869f7f/img/home-header-slider/slide_2.webp')
 }
 
 .hero-slider__item--12 {
@@ -6054,7 +6054,7 @@ body.pages-contacts .static {
 }
 
 .hero-slider__item--9 {
-    background-image: url('/public/assets/d4869f7f/img/home-header-slider/family.webp');
+    background-image: url('/assets/Images/family.webp');
     position: relative
 }
 
@@ -13149,4 +13149,25 @@ canvas {
 
 .offices-slider .owl-next:hover {
     background: hsla(0,0%,100%,.06) url(img/arrow-left-dark.svg) no-repeat 50%
+}
+
+
+
+
+/* custom css */
+.clients-imag.slide_1{
+    background-image: url('/public/assets/d4869f7f/img/clients-success/cirrus-2x.webp')
+}
+
+.clients-imag.slide_1{
+    background-image: url('/public/assets/d4869f7f/img/clients-success/cirrus-2x.webp')
+}
+.clients-imag.slide_1{
+    background-image: url('/public/assets/d4869f7f/img/clients-success/cirrus-2x.webp')
+}
+.clients-imag.slide_1{
+    background-image: url('/public/assets/d4869f7f/img/clients-success/cirrus-2x.webp')
+}
+.clients-imag.slide_1{
+    background-image: url('/public/assets/d4869f7f/img/clients-success/cirrus-2x.webp')
 }

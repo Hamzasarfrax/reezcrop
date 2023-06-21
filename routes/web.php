@@ -17,6 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/services/enterprise-software-development', function () {
+    return view('Services.enterprise-software-development');
+});
 
 Route::get('/clear-cache', function () {
     Artisan::call('cache:clear');
