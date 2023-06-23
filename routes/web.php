@@ -59,6 +59,36 @@ Route::get('/services/custom-software-development', function () {
 Route::get('/services', function () {
     return view('Services.services');
 });
+
+// industries
+
+
+Route::get('platforms/ecommerce-retail', function () {
+    return view('platforms.ecommerce-retail');
+});
+Route::get('platforms/travel-hospitality-software-development', function () {
+    return view('platforms.travel-hospitality-software-development');
+});
+Route::get('platforms/logistics-and-automotive-software-solutions', function () {
+    return view('platforms.logistics-and-automotive-software-solutions');
+});
+Route::get('platforms/custom-insurance-software-development', function () {
+    return view('platforms.custom-insurance-software-development');
+});
+Route::get('platforms/healthcare-it-solutions', function () {
+    return view('platforms.healthcare-it-solutions');
+});
+Route::get('platforms/construction-software-development', function () {
+    return view('platforms.construction-software-development');
+});
+Route::get('solutions/financial-software-development-services', function () {
+    return view('platforms.financial-software-development-services');
+});
+
+Route::get('solutions/dental-software-development', function () {
+    return view('platforms.dental-software-development');
+});
+
 Route::get('/clear-cache', function () {
     Artisan::call('cache:clear');
     Artisan::call('route:clear');

@@ -1185,7 +1185,7 @@
                     </div>
                 </section>
             </section>
-            <section id="contact-section" class="form-wrap form-wrap--contact section">
+            <section id="contact-section" class="form-wrap form-wrap--contact section" style="    background-image: url('{{ asset('assets/d4869f7f/img/form-ratings/contact-form-background.webp') }}');">
                 <div class="container">
                     <div class="contact-section">
                         <div id="form-wrap" class="form-wrap__flexbox">

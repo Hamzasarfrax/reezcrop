@@ -81,7 +81,10 @@
                         <div class="offers" id="custom-software">
                             <div class="offers-tabcontent active" style="box-shadow: 0 3px 15px rgb(0 0 0 / 22%)">
                                 <div class="tabcontent-item noclick">
-                                    <img class="offer-image" src="/assets/d4869f7f/img/custom-software/1.svg" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="34" viewBox="0 0 40 34" fill="none" class="offer-image replaced-svg">
+                                        <path d="M37.0615 14.1518C37.1881 13.6644 37.2874 13.1703 37.3607 12.6681C37.8126 9.57256 37.28 5.31404 34.0311 2.69108C30.3948 -0.244476 23.3296 -0.261513 20 5.39626C16.6689 -0.261513 9.60519 -0.244476 5.96815 2.69108C2.72 5.3133 2.18741 9.57256 2.63926 12.6689C2.75297 13.4561 2.93514 14.2318 3.1837 14.9874M5.96296 20.0185C8.66519 23.5155 12.6052 28.1926 20 32.5926C24.2363 26.9348 31.7363 23.5822 34.6541 19.1814" stroke="#323232" stroke-linejoin="round"></path>
+                                        <path d="M0 17.5051H9.16667L11.6667 19.1813L15.8333 7.44653L17.5 24.2102L21.6667 14.9902L23.3333 18.3428L25.8333 16.6665H40" stroke="#1476F2" stroke-linejoin="round"></path>
+                                        </svg>
                                     <div class="offer-content">
                                         <h3 class="offer-content-title">
                                             Healthcare
@@ -95,7 +98,13 @@
                                     </div>
                                 </div>
                                 <div class="tabcontent-item noclick">
-                                    <img class="offer-image" src="/assets/d4869f7f/img/custom-software/2.svg" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="42" height="48" viewBox="0 0 42 48" fill="none" class="offer-image replaced-svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7007 1C18.7567 3.623 5.7827 9 0.689697 9V28C0.689697 36.933 19.5777 46.705 20.6897 46.987C21.8007 46.705 40.6897 36.25 40.6897 29V9C35.1337 9 22.6457 3.623 20.7007 1Z" stroke="#323232"></path>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M31.6897 32.9868H9.68968C9.13768 32.9868 8.68968 32.5388 8.68968 31.9868V17.9868C8.68968 17.4348 9.13768 16.9868 9.68968 16.9868H31.6897C32.2427 16.9868 32.6897 17.4348 32.6897 17.9868V31.9868C32.6897 32.5388 32.2427 32.9868 31.6897 32.9868Z" stroke="#3F7FE7"></path>
+                                        <path d="M17.6897 16.9866V13.9866C17.6897 13.4346 18.1377 12.9866 18.6897 12.9866H22.6897C23.2427 12.9866 23.6897 13.4346 23.6897 13.9866V16.9866" stroke="#3F7FE7"></path>
+                                        <path d="M18.6897 24.9868V26.9868C18.6897 27.5388 19.1377 27.9868 19.6897 27.9868H21.6897C22.2427 27.9868 22.6897 27.5388 22.6897 26.9868V24.9868" stroke="#3F7FE7"></path>
+                                        <path d="M32.6897 22.9866C32.6897 24.0906 27.3167 24.9866 20.6897 24.9866C14.0627 24.9866 8.68968 24.0906 8.68968 22.9866" stroke="#3F7FE7"></path>
+                                        </svg>
                                     <div class="offer-content">
                                         <h3 class="offer-content-title">
                                             Insurance
@@ -109,7 +118,12 @@
                                     </div>
                                 </div>
                                 <div class="tabcontent-item noclick">
-                                    <img class="offer-image" src="/assets/d4869f7f/img/custom-software/3.svg" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="41" height="42" viewBox="0 0 41 42" fill="none" class="offer-image replaced-svg">
+                                        <path d="M5.61845 41.1688V38.9856C5.61845 38.2625 6.20611 37.6764 6.9284 37.6764H13.4782C13.7076 37.6765 13.9347 37.6313 14.1467 37.5436C14.3586 37.4559 14.5512 37.3272 14.7134 37.165C14.8756 37.0028 15.0043 36.8102 15.092 36.5983C15.1797 36.3863 15.2249 36.1592 15.2248 35.9298V35.4931C15.2247 35.3211 15.2585 35.1508 15.3242 34.9919C15.39 34.8329 15.4864 34.6885 15.608 34.5669C15.7295 34.4452 15.8739 34.3487 16.0328 34.2829C16.1917 34.217 16.362 34.1832 16.534 34.1832H16.9706C17.2 34.1833 17.4272 34.1381 17.6391 34.0504C17.8511 33.9627 18.0437 33.834 18.2059 33.6718C18.3681 33.5096 18.4967 33.317 18.5845 33.1051C18.6722 32.8931 18.7173 32.6659 18.7172 32.4366V31.5633C18.7173 31.3339 18.6722 31.1067 18.5845 30.8947C18.4967 30.6828 18.3681 30.4902 18.2059 30.328C18.0437 30.1658 17.8511 30.0371 17.6391 29.9494C17.4272 29.8617 17.2 29.8166 16.9706 29.8167H11.7316C11.0085 29.8167 10.4216 30.4036 10.4216 31.1266C10.4216 31.4738 10.2837 31.8068 10.0381 32.0524C9.79262 32.2979 9.45962 32.4358 9.1124 32.4358H2.99855M21.3371 41.1688V38.5489C21.337 38.3195 21.3821 38.0924 21.4699 37.8804C21.5576 37.6685 21.6863 37.4759 21.8485 37.3137C22.0107 37.1515 22.2033 37.0228 22.4152 36.9351C22.6272 36.8473 22.8543 36.8022 23.0837 36.8023H29.1961C29.6592 36.8023 30.1034 36.6183 30.4309 36.2909C30.7583 35.9634 30.9423 35.5192 30.9423 35.0561C30.9423 34.593 30.7583 34.1488 30.4309 33.8213C30.1034 33.4938 29.6592 33.3099 29.1961 33.3099H28.3228C27.8596 33.3099 27.4153 33.1258 27.0878 32.7983C26.7602 32.4707 26.5762 32.0265 26.5762 31.5633C26.5762 31.1 26.7602 30.6558 27.0878 30.3282C27.4153 30.0007 27.8596 29.8167 28.3228 29.8167H36.1817" stroke="#323232" stroke-linejoin="round"></path>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.2527 41.1689C1.2527 30.5591 9.85404 21.9578 20.4638 21.9578C31.0736 21.9578 39.675 30.5591 39.675 41.1689H1.2527Z" stroke="#323232"></path>
+                                        <path d="M23.0837 6.23906L23.106 5.3665L19.5898 1H16.9699L18.7165 5.3665V6.23906M33.5626 9.73301C33.5628 9.50355 33.5177 9.27631 33.43 9.06427C33.3423 8.85223 33.2137 8.65956 33.0515 8.49727C32.8893 8.33499 32.6967 8.20627 32.4847 8.11849C32.2727 8.0307 32.0454 7.98556 31.816 7.98566H12.221C12.1258 7.98566 9.11165 5.3665 9.11165 5.3665H7.36505L8.20041 8.8731C7.71095 9.13122 7.36505 9.39008 7.36505 9.85054C7.36505 11.2326 10.4625 11.4789 11.3485 11.4789H18.7172V13.2255L16.0973 18.4645H18.7172L23.0837 14.098L24.7701 11.4789H31.816C32.0454 11.479 32.2725 11.4339 32.4845 11.3461C32.6964 11.2584 32.889 11.1297 33.0512 10.9675C33.2134 10.8053 33.3421 10.6127 33.4298 10.4008C33.5176 10.1888 33.5627 9.9624 33.5626 9.73301Z" stroke="#1476F2"></path>
+                                        <path d="M0.379395 23.8919C4.08571 19.7851 8.96229 16.9136 14.3515 15.6647M25.7029 15.478C31.3456 16.59 36.4868 19.4722 40.3794 23.7059" stroke="#323232"></path>
+                                        </svg>
                                     <div class="offer-content">
                                         <h3 class="offer-content-title">
                                             Hospitality
@@ -122,7 +136,10 @@
                                     </div>
                                 </div>
                                 <div class="tabcontent-item noclick">
-                                    <img class="offer-image" src="/assets/d4869f7f/img/custom-software/4.svg" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="57" viewBox="0 0 40 57" fill="none" class="offer-image replaced-svg">
+                                        <path d="M30.5887 45.7795V56.3846M9.41128 45.7795V56.3846M34.118 37.5303C34.118 39.0718 33.7487 42.2072 32.9415 43.4226C32.1313 44.6369 28.2349 48.1354 28.2349 48.1354C26.6532 49.6529 24.5447 50.4978 22.3528 50.4923H17.6472C15.4553 50.4978 13.3468 49.6529 11.7651 48.1354C11.7651 48.1354 7.86769 44.638 7.05846 43.4226C6.24923 42.2072 5.88205 39.0718 5.88205 37.5303M40 24.5692H0M12.9415 8.07077V2.17846C7.35282 4.0441 3.52821 8.01949 3.52821 13.9631V18.6759L1.17538 19.8544V22.2113M27.0585 8.07077V2.17846C32.6472 4.0441 36.4708 8.01949 36.4708 13.9631V18.6759L38.8236 19.8544V22.2113M16.4718 11.6051V1H23.5303V11.6051H16.4718Z" stroke="#323232" stroke-linejoin="round"></path>
+                                        <path d="M34.1539 27.0266H36.4205V32.9702C34.7897 34.5343 33.8513 35.3425 33.6041 35.3968C31.8554 35.7825 29.2903 36.2584 25.9097 36.8245C24.9716 36.8264 24.0479 36.5937 23.2226 36.1476L21.8421 35.3958C21.2923 35.0963 20.6267 34.5671 20.0092 34.5589C19.358 34.5517 18.7549 35.0799 18.1754 35.3958L16.7959 36.1476C15.9707 36.594 15.0469 36.8267 14.1087 36.8245C10.7282 36.2604 8.15693 35.7845 6.3959 35.3968C6.16001 35.3455 5.17026 34.5363 3.42462 32.9702V27.0071H5.81949" stroke="#1476F2"></path>
+                                        </svg>
                                     <div class="offer-content">
                                         <h3 class="offer-content-title">
                                             Construction & Civil Engineering
@@ -135,7 +152,23 @@
                                     </div>
                                 </div>
                                 <div class="tabcontent-item noclick">
-                                    <img class="offer-image" src="/assets/d4869f7f/img/custom-software/5.svg" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="42" height="46" viewBox="0 0 42 46" fill="none" class="offer-image replaced-svg">
+                                        <path d="M36.0385 34.245V44.7212H0.689697V12.3402H11.8525" stroke="#1476F2"></path>
+                                        <path d="M0.689697 18.0546H11.8525" stroke="#1476F2"></path>
+                                        <path d="M9.0618 37.1021L23.9455 21.864" stroke="#1476F2"></path>
+                                        <path d="M9.0618 31.3878V37.1021H14.6432" stroke="#1476F2"></path>
+                                        <path d="M23.9455 27.5783V21.864H18.3641" stroke="#1476F2"></path>
+                                        <path d="M3.48039 15.1975H5.34086" stroke="#1476F2"></path>
+                                        <path d="M7.20132 15.1975H9.06179" stroke="#1476F2"></path>
+                                        <path d="M14.6432 23.3256V1H40.6897V31.6977H19.2944" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M26.7362 21.4651L34.1781 21.4651" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M26.7362 26.1163L34.1781 26.1163" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M20.2246 16.814H34.1781" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M20.2246 6.5813H25.806" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M23.0153 12.1627V6.5813" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M29.5269 6.5813H34.1781" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M29.5269 11.2325H34.1781" stroke="#323232" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
                                     <div class="offer-content">
                                         <h3 class="offer-content-title">
                                             Legal Tech
@@ -149,7 +182,16 @@
                                     </div>
                                 </div>
                                 <div class="tabcontent-item noclick">
-                                    <img class="offer-image" src="/assets/d4869f7f/img/custom-software/6.svg" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43" fill="none" class="offer-image replaced-svg">
+                                        <path d="M9.46037 34.6694C9.46037 34.6694 14.3379 29.7918 14.8479 29.2818C15.358 28.7718 15.9757 28.1495 15.9353 26.9176C15.8787 25.1576 15.2735 23.932 15.8671 23.3375" stroke="#323232" stroke-linecap="round"></path>
+                                        <path d="M19.7918 24.4913L24.8714 19.4127C25.8259 18.4582 27.5059 18.4761 28.3688 19.3929C30.9495 22.137 35.6932 27.6386 34.3957 28.9361L28.6804 34.6505C27.1934 36.1383 23.6682 35.7262 22.9292 36.4652L17.5416 41.8527" stroke="#323232" stroke-linecap="round"></path>
+                                        <path d="M33.7605 29.571L35.665 31.4755" stroke="#1476F2" stroke-linecap="round"></path>
+                                        <path d="M31.2211 35.9206L29.3157 34.0161" stroke="#1476F2" stroke-linecap="round"></path>
+                                        <path d="M34.3953 32.7454L36.2998 30.8409L39.4749 30.2061L41.3794 32.1106L31.856 41.6349L29.9506 39.7295L30.5863 36.5553L32.4908 34.6508" stroke="#1476F2" stroke-linecap="round"></path>
+                                        <path d="M10.268 22.5867C8.02584 24.8288 5.96241 24.6304 4.55356 23.2215C3.14472 21.8136 1.37939 20.0473 1.37939 20.0473L4.55356 16.8732" stroke="#1476F2" stroke-linecap="round"></path>
+                                        <path d="M22.967 9.88857C25.2091 7.64645 25.0098 5.58301 23.6018 4.17417C22.193 2.76442 20.4267 1 20.4267 1L17.2526 4.17417" stroke="#1476F2" stroke-linecap="round"></path>
+                                        <path d="M24.2367 20.047C21.9946 17.8049 25.8503 12.7711 22.3322 9.25304L15.983 2.90381L3.28362 15.6023C4.92502 17.2437 6.98756 19.3062 9.63285 21.9515C13.1518 25.4705 18.1847 21.6139 20.4268 23.856" stroke="#1476F2" stroke-linecap="round"></path>
+                                        </svg>
                                     <div class="offer-content">
                                         <h3 class="offer-content-title">
                                             Sports
@@ -498,7 +540,7 @@
         </div>
         </section>
         </section>
-        <section id="contact-section" class="form-wrap form-wrap--contact section">
+        <section id="contact-section" class="form-wrap form-wrap--contact section" style="    background-image: url('{{ asset('assets/d4869f7f/img/form-ratings/contact-form-background.webp') }}');">
             <div class="container">
                 <div class="contact-section">
                     <div id="form-wrap" class="form-wrap__flexbox">

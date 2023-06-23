@@ -4871,7 +4871,7 @@ body.pages-contacts .static {
 
 .form-wrap--contact {
     padding: 80px 0;
-    background-image: url('/assets/d4869f7f/img/form-ratings/contact-form-background.webp');
+    background-image: url(/public/assets/d4869f7f/img/form-ratings/contact-form-background.webp);
     width: 100%;
 }
 

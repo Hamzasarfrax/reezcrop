@@ -243,7 +243,7 @@
         <div class="sub-menu__wrapper">
         <div class="sub-menu__header"></div>
         <li class="menu-item">
-        <a href="https://www.intellectsoft.net/solutions/dental-software-development/" data-image="https://admin.intellectsoft.net/upload/images/menu-items/4f1ed2a820e27c500027fa22cf23b71b11fae258ac5002a3b7429580ad7a6bf0.jpg" data-descr="Software for dental clinics" data-link="https://www.intellectsoft.net/solutions/dental-software-development/" data-alt="Dental Image" class="sub-item-link ">
+        <a href="/solutions/dental-software-development" data-alt="Dental Image" class="sub-item-link ">
         Dental <i class="isoi-angle-right"></i>
         </a>
         </li>

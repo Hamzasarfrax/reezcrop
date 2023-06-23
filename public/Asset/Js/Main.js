@@ -19,3 +19,5 @@ $('.offers-tabcontent').each(function(){
    }
 })
   });
+
+  $('#contact-section').attr('src','/assets/d4869f7f/img/form-ratings/contact-form-background.webp')
