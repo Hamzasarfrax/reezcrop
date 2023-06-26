@@ -17,6 +17,16 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/privacy-policy', function () {
+    return view('privacy-policy');
+});
+Route::get('/sitemap', function () {
+    return view('sitemap');
+});
+
+// global routes 
+
+
 Route::get('/services/enterprise-software-development', function () {
     return view('Services.enterprise-software-development');
 });
@@ -56,13 +66,16 @@ Route::get('/services/custom-software-development', function () {
     return view('Services.custom-software-development');
 });
 
-Route::get('/services', function () {
-    return view('Services.services');
+Route::get('/service', function () {
+    return view('Services.service');
 });
 
 // industries
 
 
+Route::get('platforms', function () {
+    return view('platforms.platforms');
+});
 Route::get('platforms/ecommerce-retail', function () {
     return view('platforms.ecommerce-retail');
 });
@@ -89,6 +102,44 @@ Route::get('solutions/dental-software-development', function () {
     return view('platforms.dental-software-development');
 });
 
+
+// clients
+
+
+Route::get('/clients', function () {
+    return view('clients.clients');
+});
+Route::get('/cases', function () {
+    return view('clients.case');
+});
+
+
+// company details
+
+Route::get('/about', function () {
+    return view('compnay.about');
+});
+Route::get('/team', function () {
+    return view('compnay.team');
+});
+Route::get('/careers', function () {
+    return view('compnay.careers');
+});
+Route::get('/contacts', function () {
+    return view('compnay.contacts');
+});
+Route::get('/blog', function () {
+    return view('compnay.blog');
+});
+Route::get('/insights', function () {
+    return view('compnay.insights');
+});
+Route::get('/blog/news', function () {
+    return view('compnay.news');
+});
+
+
+// the route for cache clear
 Route::get('/clear-cache', function () {
     Artisan::call('cache:clear');
     Artisan::call('route:clear');
@@ -100,6 +151,6 @@ Route::get('/clear-cache', function () {
  });
 
 
-//  ProductController
+//  ProductController testing
 
 Route::get('/test', [controller::class, 'ReturnPage'])->name('returnparoduct');

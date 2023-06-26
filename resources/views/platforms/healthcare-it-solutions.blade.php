@@ -25,7 +25,7 @@
                     <a class="popup-ok">i accept cookies</a>
                 </div>
             </div>
-    
+
             <section class="hero hero--600 hero-healthcare"
                 style="background-image:url(/upload/images/platforms/2c858af0fe8c721c2ee19a1a047aecd9670f333ee0a0434ca1d103e0f0ec6e60.png);">
                 <div class="container">
@@ -433,7 +433,7 @@
                                     <div>
                                         <div class="slide">
                                             <div class="tabs-content__left"
-                                                style="background-image: url('/assets/d4869f7f/img/platforms/clients/9.webp')">
+                                                style="background-image: url('{{asset('assets/d4869f7f/img/platforms/9.webp')}}')">
                                             </div>
                                             <div class="tabs-content__right">
                                                 <h3>Stream Data for Hospital</h3>
@@ -771,10 +771,10 @@
                     </div>
                 </div>
             </section>
-            <section class="form-wrap new-thanks-wrap">
+            <section class="form-wrap new-thanks-wrap" style="background-image: url('{{asset('assets/d4869f7f/img/Bitmap111.webp')}}')">
                 <div class="container container--flex">
                     <div class="form-wrap__left">
-                        <img src="https://www.intellectsoft.net/blog/wp-content/uploads/Preview-proteket.webp" alt>
+                        <img src="{{asset('assets/d4869f7f/img/platforms/Preview-proteket.webp')}}" alt>
                     </div>
                     <div class="form-wrap__block">
                         <div class="form-wrap__center">
@@ -783,7 +783,7 @@
                                 Transformation</h3>
                         </div>
                         <div class="form-wrap__right">
-                            <a href="https://www.intellectsoft.net/l/35/dental-clinic-healthcare-case-study"
+                            <a href="/l/35/dental-clinic-healthcare-case-study"
                                 class="form__submit">GET THE CASE STUDY</a>
                         </div>
                     </div>
@@ -829,7 +829,7 @@
                     </div>
                 </div>
             </section>
-            <section id="contact-section" class="form-wrap form-wrap--contact section">
+            <section id="contact-section" class="form-wrap form-wrap--contact section" style="background-image: url({{asset('assets/d4869f7f/img/form-ratings/contact-form-background.webp')}})">
                 <div class="container">
                     <div class="contact-section">
                         <div id="form-wrap" class="form-wrap__flexbox">
@@ -987,7 +987,7 @@
                                         stroke="white" stroke-width="0.643909" />
                                     <rect x="7.84131" y="8.11532" width="27.0442" height="27.0442"
                                         rx="1.28782" fill="url(#pattern0)" />
-                                
+
                                 </svg>
                                 <div class="rating-items__text">
                                     <div class="stars">
@@ -1115,7 +1115,7 @@
                     </div>
                 </div>
             </div>
-      
+
         </div>
      </div>
     @endsection

@@ -26,7 +26,7 @@
                 </div>
             </div>
 
-            <section class="header header--services">
+            <section class="header header--services" style="background-image: url('{{asset('assets/d4869f7f/img/cover-min.webp')}}')">
                 <div class="container">
                     <div class="header__content">
                         <h1 class="title title--uppercase white-text">
